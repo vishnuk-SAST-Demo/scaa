@@ -1,4 +1,4 @@
-FROM openjdk:11
+FROM openjdk:26
 WORKDIR /app
 
 # Copy xz-java-malicious first to install it
